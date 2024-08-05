@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.AssemblyInfo.cs
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Thuchanhtinhdientich\bin\Debug\net8.0\Thuchanhtinhdientich.exe
+C:\Users\admin\Desktop\Thuchanhtinhdientich\bin\Debug\net8.0\Thuchanhtinhdientich.deps.json
+C:\Users\admin\Desktop\Thuchanhtinhdientich\bin\Debug\net8.0\Thuchanhtinhdientich.runtimeconfig.json
+C:\Users\admin\Desktop\Thuchanhtinhdientich\bin\Debug\net8.0\Thuchanhtinhdientich.dll
+C:\Users\admin\Desktop\Thuchanhtinhdientich\bin\Debug\net8.0\Thuchanhtinhdientich.pdb
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.dll
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\refint\Thuchanhtinhdientich.dll
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.pdb
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\Thuchanhtinhdientich.genruntimeconfig.cache
+C:\Users\admin\Desktop\Thuchanhtinhdientich\obj\Debug\net8.0\ref\Thuchanhtinhdientich.dll
